@@ -1,0 +1,31 @@
+{
+  "name": "Hatim",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-dustjs": "~1.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Hatim application",
+  "main": "server.js",
+  "dependencies": {
+    "dustjs-helpers": "~1.1.1",
+    "dustjs-linkedin": "~2.0.3",
+    "express": "~3.4.3",
+    "grunt": "~0.4.1",
+    "grunt-dustjs": "~1.1.1",
+    "grunt-contrib-jshint": "0.7.2",
+    "mongoskin": "~0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "hatim"
+  ],
+  "author": "Emre Bogazliyanlioglu",
+  "license": "BSD"
+}
